@@ -1,0 +1,8 @@
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\bin\Debug\Zrakoplov.exe.config
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\bin\Debug\Zrakoplov.exe
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\bin\Debug\Zrakoplov.pdb
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\obj\Debug\Zrakoplov.csproj.AssemblyReference.cache
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\obj\Debug\Zrakoplov.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\obj\Debug\Zrakoplov.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\obj\Debug\Zrakoplov.exe
+D:\Visual Studio\C#\Zrakoplov\Zrakoplov\obj\Debug\Zrakoplov.pdb
